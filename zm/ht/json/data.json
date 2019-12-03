@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"方小鱼1",
+        "price":"500",
+        "type":"buyer"
+    },
+    {
+        "id":2,
+        "name":"方小鱼2",
+        "price":"500",
+        "type":"buyer"
+    },
+    {
+        "id":3,
+        "name":"方小鱼3",
+        "price":"500",
+        "type":"like"
+    },
+    {
+        "id":4,
+        "name":"方小鱼4",
+        "price":"500",
+        "type":"ok"
+    }
+]
